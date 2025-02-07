@@ -1,0 +1,202 @@
+
+Experiment ID = 1
+
+Accuracy: 0.905617 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.908711 (+/- 0.00) [Random Forest]
+Accuracy: 0.816959 (+/- 0.00) [naive Bayes]
+Accuracy: 0.908775 (+/- 0.00) [Extra Tree]
+Accuracy: 0.923830 (+/- 0.00) [Ensemble]
+
+[[183932  16078]
+ [ 16864 143793]]
+
+
+Experiment ID = 2
+
+Accuracy: 0.906570 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.929691 (+/- 0.00) [Random Forest]
+Accuracy: 0.800145 (+/- 0.00) [naive Bayes]
+Accuracy: 0.925776 (+/- 0.00) [Extra Tree]
+Accuracy: 0.928208 (+/- 0.00) [Ensemble]
+
+[[189660  10245]
+ [ 15004 145758]]
+
+
+Experiment ID = 3
+
+Accuracy: 0.909770 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.931419 (+/- 0.00) [Random Forest]
+Accuracy: 0.817230 (+/- 0.00) [naive Bayes]
+Accuracy: 0.927290 (+/- 0.00) [Extra Tree]
+Accuracy: 0.930861 (+/- 0.00) [Ensemble]
+
+[[190347   9820]
+ [ 14649 145851]]
+
+
+Experiment ID = 4
+
+Accuracy: 0.907738 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.920314 (+/- 0.00) [Random Forest]
+Accuracy: 0.807124 (+/- 0.00) [naive Bayes]
+Accuracy: 0.916918 (+/- 0.00) [Extra Tree]
+Accuracy: 0.928771 (+/- 0.00) [Ensemble]
+
+[[185516  14210]
+ [ 14936 146005]]
+
+
+Experiment ID = 5
+
+Accuracy: 0.906268 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.929946 (+/- 0.00) [Random Forest]
+Accuracy: 0.811724 (+/- 0.00) [naive Bayes]
+Accuracy: 0.926142 (+/- 0.00) [Extra Tree]
+Accuracy: 0.928854 (+/- 0.00) [Ensemble]
+
+[[189548  10308]
+ [ 14525 146286]]
+
+
+Experiment ID = 6
+
+Accuracy: 0.911447 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.937011 (+/- 0.00) [Random Forest]
+Accuracy: 0.820372 (+/- 0.00) [naive Bayes]
+Accuracy: 0.935131 (+/- 0.00) [Extra Tree]
+Accuracy: 0.932467 (+/- 0.00) [Ensemble]
+
+[[190964   8554]
+ [ 13603 147546]]
+
+
+Experiment ID = 7
+
+Accuracy: 0.912099 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.937474 (+/- 0.00) [Random Forest]
+Accuracy: 0.812484 (+/- 0.00) [naive Bayes]
+Accuracy: 0.933745 (+/- 0.00) [Extra Tree]
+Accuracy: 0.933836 (+/- 0.00) [Ensemble]
+
+[[190748   9203]
+ [ 13092 147624]]
+
+
+Experiment ID = 8
+
+Accuracy: 0.907388 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.935869 (+/- 0.00) [Random Forest]
+Accuracy: 0.804734 (+/- 0.00) [naive Bayes]
+Accuracy: 0.934011 (+/- 0.00) [Extra Tree]
+Accuracy: 0.930590 (+/- 0.00) [Ensemble]
+
+[[191153   8939]
+ [ 13845 146730]]
+
+
+Experiment ID = 9
+
+Accuracy: 0.920958 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.940369 (+/- 0.00) [Random Forest]
+Accuracy: 0.819066 (+/- 0.00) [naive Bayes]
+Accuracy: 0.936958 (+/- 0.00) [Extra Tree]
+Accuracy: 0.937702 (+/- 0.00) [Ensemble]
+
+[[191557   8718]
+ [ 12539 147853]]
+
+
+Experiment ID = 10
+
+Accuracy: 0.918215 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.938087 (+/- 0.00) [Random Forest]
+Accuracy: 0.821977 (+/- 0.00) [naive Bayes]
+Accuracy: 0.936265 (+/- 0.00) [Extra Tree]
+Accuracy: 0.935040 (+/- 0.00) [Ensemble]
+
+[[191570   8439]
+ [ 13438 147220]]
+
+
+Experiment ID = 11
+
+Accuracy: 0.913466 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.939354 (+/- 0.00) [Random Forest]
+Accuracy: 0.807867 (+/- 0.00) [naive Bayes]
+Accuracy: 0.935769 (+/- 0.00) [Extra Tree]
+Accuracy: 0.936479 (+/- 0.00) [Ensemble]
+
+[[190852   8961]
+ [ 12669 148185]]
+
+
+Experiment ID = 12
+
+Accuracy: 0.921329 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.943128 (+/- 0.00) [Random Forest]
+Accuracy: 0.817716 (+/- 0.00) [naive Bayes]
+Accuracy: 0.941395 (+/- 0.00) [Extra Tree]
+Accuracy: 0.938007 (+/- 0.00) [Ensemble]
+
+[[192153   7752]
+ [ 12256 148506]]
+
+
+Experiment ID = 13
+
+Accuracy: 0.918565 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.940607 (+/- 0.00) [Random Forest]
+Accuracy: 0.814388 (+/- 0.00) [naive Bayes]
+Accuracy: 0.939518 (+/- 0.00) [Extra Tree]
+Accuracy: 0.934940 (+/- 0.00) [Ensemble]
+
+[[191790   7926]
+ [ 12929 148022]]
+
+
+Experiment ID = 14
+
+Accuracy: 0.914464 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.943008 (+/- 0.00) [Random Forest]
+Accuracy: 0.813229 (+/- 0.00) [naive Bayes]
+Accuracy: 0.941134 (+/- 0.00) [Extra Tree]
+Accuracy: 0.936507 (+/- 0.00) [Ensemble]
+
+[[191635   7885]
+ [ 12184 148963]]
+
+
+Experiment ID = 15
+
+Accuracy: 0.922901 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.943358 (+/- 0.00) [Random Forest]
+Accuracy: 0.812425 (+/- 0.00) [naive Bayes]
+Accuracy: 0.941733 (+/- 0.00) [Extra Tree]
+Accuracy: 0.938752 (+/- 0.00) [Ensemble]
+
+[[192366   7801]
+ [ 11972 148528]]
+
+
+Experiment ID = 16
+
+Accuracy: 0.922366 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.945371 (+/- 0.00) [Random Forest]
+Accuracy: 0.803470 (+/- 0.00) [naive Bayes]
+Accuracy: 0.943826 (+/- 0.00) [Extra Tree]
+Accuracy: 0.938641 (+/- 0.00) [Ensemble]
+
+[[192438   7427]
+ [ 11722 149080]]
+
+Confusion Matrix Stats
+TN	legit/legit: 96.28% (192438/199865)
+FP	legit/dga: 3.72% (7427/199865)
+FN	dga/legit: 7.29% (11722/160802)
+TP	dga/dga: 92.71% (149080/160802)
+
+
+The false positive rate (or "false alarm rate") is 3.7%, calculated by using formula FPR=FP/(FP+TN).
+= 3.7%/(3.7%+96.3%)
+

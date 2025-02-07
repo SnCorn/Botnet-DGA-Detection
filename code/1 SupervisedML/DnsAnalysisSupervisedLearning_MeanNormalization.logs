@@ -1,0 +1,181 @@
+Accuracy: 0.829058 (+/- 0.00) [Logistic Regression]
+Accuracy: 0.896927 (+/- 0.00) [Random Forest]
+Accuracy: 0.638936 (+/- 0.00) [naive Bayes]
+Accuracy: 0.891562 (+/- 0.00) [Extra Tree]
+Accuracy: 0.884958 (+/- 0.00) [Ensemble]
+
+
+Confusion Matrix Stats
+legit/legit: 92.41% (184672/199839)
+legit/dga: 7.59% (15167/199839)
+dga/legit: 10.77% (17328/160828)
+dga/dga: 89.23% (143500/160828)
+
+
+E:\PROGRAM\DnsLogAnalysis\venv\Scripts\python.exe E:/PROGRAM/DnsLogAnalysis/DnsAnalysisSupervisedLearning_MeanNormalization.py
+#1 Read The Data
+sys:1: DtypeWarning: Columns (18) have mixed types. Specify dtype option on import or set low_memory=False.
+#2 Calculate / Prepare The Data
+#3 Run The Algorithms
+[[1.91829583 2.25582756 2.15491358 0.82413037]
+ [2.75       1.63463886 1.37982007 0.68777761]
+ [2.52164064 2.02005757 2.00448959 0.73828179]
+ [2.32192809 2.11308084 1.84334257 0.78508951]
+ [1.92192809 2.377796   2.32849934 0.83876165]]
+['legit' 'legit' 'legit' 'legit' 'legit']
+[[2.52164064 2.3388385  1.85565864 0.77861819]
+ [3.97909789 2.61234424 0.96749954 0.60355351]
+ [3.02716912 1.30521921 1.33235674 0.66096114]
+ [3.02205521 1.64389723 1.37154042 0.65947026]
+ [2.92192809 1.81549638 2.06944755 0.72555645]]
+[3.02415923 1.65613445 1.28428219 0.65089631]
+[4.77988918 9.89399868 5.99444579 0.93562728]
+[[-0.10513185  0.06900183  0.09531764  0.13650936]
+ [ 0.19978259  0.09664543 -0.05284603 -0.05060007]
+ [ 0.0006297  -0.03546748  0.00801985  0.01075731]
+ [-0.00044018 -0.00123683  0.01455651  0.00916384]
+ [-0.02138776  0.01610693  0.13098214  0.07979688]]
+[Parallel(n_jobs=40)]: Using backend ThreadingBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:  1.6min
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:  4.6min
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:  8.9min
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed: 14.1min
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed: 17.9min finished
+Accuracy: 0.829058 (+/- 0.00) [Logistic Regression]
+[Parallel(n_jobs=40)]: Using backend LokyBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:   18.1s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:   44.1s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:  1.3min
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:  2.1min
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:  2.7min finished
+[Parallel(n_jobs=40)]: Using backend ThreadingBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:    1.2s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:    2.3s
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:    3.6s
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:    4.4s finished
+[Parallel(n_jobs=40)]: Using backend LokyBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:   13.7s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:   39.7s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:  1.3min
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:  2.1min
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:  2.6min finished
+[Parallel(n_jobs=40)]: Using backend ThreadingBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:    0.9s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:    1.8s
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:    2.9s
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:    3.6s finished
+[Parallel(n_jobs=40)]: Using backend LokyBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:   13.9s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:   39.9s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:  1.3min
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:  2.0min
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:  2.6min finished
+[Parallel(n_jobs=40)]: Using backend ThreadingBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:    1.0s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:    2.0s
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:    3.2s
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:    4.1s finished
+[Parallel(n_jobs=40)]: Using backend LokyBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:   13.7s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:   40.3s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:  1.3min
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:  2.1min
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:  2.6min finished
+[Parallel(n_jobs=40)]: Using backend ThreadingBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:    0.9s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:    1.8s
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:    2.9s
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:    3.6s finished
+[Parallel(n_jobs=40)]: Using backend LokyBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:   13.7s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:   40.1s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:  1.3min
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:  2.1min
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:  2.6min finished
+[Parallel(n_jobs=40)]: Using backend ThreadingBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:    1.0s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:    1.8s
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:    3.0s
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:    3.7s finished
+Accuracy: 0.896927 (+/- 0.00) [Random Forest]
+Accuracy: 0.638936 (+/- 0.00) [naive Bayes]
+Accuracy: 0.891562 (+/- 0.00) [Extra Tree]
+[Parallel(n_jobs=40)]: Using backend LokyBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:   13.1s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:   38.6s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:  1.2min
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:  2.0min
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:  2.6min finished
+[Parallel(n_jobs=40)]: Using backend ThreadingBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:    0.9s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:    1.7s
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:    3.0s
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:    3.7s finished
+[Parallel(n_jobs=40)]: Using backend LokyBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:   13.4s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:   39.1s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:  1.3min
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:  2.0min
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:  2.6min finished
+[Parallel(n_jobs=40)]: Using backend ThreadingBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:    0.9s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:    1.7s
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:    2.8s
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:    3.5s finished
+[Parallel(n_jobs=40)]: Using backend LokyBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:   12.9s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:   38.8s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:  1.2min
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:  2.0min
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:  2.6min finished
+[Parallel(n_jobs=40)]: Using backend ThreadingBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:    0.9s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:    1.7s
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:    2.8s
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:    3.5s finished
+[Parallel(n_jobs=40)]: Using backend LokyBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:   13.4s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:   38.7s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:  1.3min
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:  2.0min
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:  2.6min finished
+[Parallel(n_jobs=40)]: Using backend ThreadingBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:    0.9s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:    1.7s
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:    2.8s
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:    3.5s finished
+[Parallel(n_jobs=40)]: Using backend LokyBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:   13.4s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:   39.0s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:  1.3min
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:  2.0min
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:  2.6min finished
+[Parallel(n_jobs=40)]: Using backend ThreadingBackend with 40 concurrent workers.
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:    0.9s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:    1.7s
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:    2.8s
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:    3.5s finished
+[Parallel(n_jobs=40)]: Using backend ThreadingBackend with 40 concurrent workers.
+Accuracy: 0.884958 (+/- 0.00) [Ensemble]
+[Parallel(n_jobs=40)]: Done 120 tasks      | elapsed:    3.2s
+[Parallel(n_jobs=40)]: Done 370 tasks      | elapsed:    8.6s
+[Parallel(n_jobs=40)]: Done 720 tasks      | elapsed:   16.3s
+[Parallel(n_jobs=40)]: Done 1170 tasks      | elapsed:   41.1s
+[Parallel(n_jobs=40)]: Done 1500 out of 1500 | elapsed:  1.1min finished
+Confusion Matrix Stats
+legit/legit: 92.41% (184672/199839)
+legit/dga: 7.59% (15167/199839)
+dga/legit: 10.77% (17328/160828)
+dga/dga: 89.23% (143500/160828)
+
+Process finished with exit code 0
